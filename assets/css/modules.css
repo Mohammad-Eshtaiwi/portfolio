@@ -945,6 +945,7 @@ ul.icons a {
 #main > section.one {
   background-color: #81918e;
   background-image: url("../../images/banner.jpg");
+  background-blend-mode: multiply;
 }
 
 #main > section.two {
